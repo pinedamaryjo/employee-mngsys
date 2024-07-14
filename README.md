@@ -1,1 +1,1 @@
-# employee-mngsys
+# school-mngsys
